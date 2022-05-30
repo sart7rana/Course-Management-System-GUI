@@ -1,2 +1,2 @@
 # Course-Management-System-GUI
-It is a Course management GUI system designed with the Java Programming language that lets Academy to add both Academic Course and Non Academic Course with full description of the project. 
+It is a course management GUI system built with the Java programming language that allows Academy to add both academic and non-academic courses with comprehensive project descriptions. It is written in Java and includes the SWING framework and AWT. Objects instance was developed using the OOP and polymorphism concepts. When the user clicked a button, the inserted data was validated using an action listener.
